@@ -44,7 +44,8 @@ footer {
     height: 2rem;
 }
 
-footer p {
+
+.paragrafo_footer {
     text-align: center;
     font-size: 0.9rem;
     margin-top: 0.5rem;
