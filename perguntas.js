@@ -17,7 +17,7 @@ criaCartao (
 )
 
 criaCartao (
-    'Geografia'
-    'Quais são as estações do ano ?'
+    'Geografia',
+    'Quais são as estações do ano ?',
     'Outono, Inverno, Verão, Primavera'
 )
