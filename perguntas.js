@@ -15,3 +15,9 @@ criaCartao (
     'Quais foram algumas das principais revoltas que ocorreram durante a Primeira República do Brasil?',
     'Revolta das vacinas, revolta de canudos, revolução federalista, movimento do contestado.'
 )
+
+criaCartao (
+    'Geografia'
+    'Quais são as estações do ano ?'
+    'Outono, Inverno, Verão, Primavera'
+)
